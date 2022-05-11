@@ -1,0 +1,11 @@
+{
+    "title": "$:/plugins/RobertP3469/tiddlywiki-to-pdf",
+	"name": "TiddlyWiki to PDF",
+    "description": "Convert TW5 TiddlyWiki to PDF.",
+    "author": "Robert Payne",
+    "version": "0.1.0",
+    "core-version": ">=5.0.0",
+    "source": "https://github.com/RobertP3469/tiddlywiki-to-pdf",
+	"list": "readme license",
+    "plugin-type": "plugin"
+}
